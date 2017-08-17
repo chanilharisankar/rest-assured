@@ -11,6 +11,6 @@ public class Get {
     @Test
     public void getTest(){
         System.out.print("yes");
-//        Assert.assertEquals("Google","");
+        Assert.assertEquals("Google","");
     }
 }
