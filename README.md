@@ -1,4 +1,4 @@
 # rest-assured
 Used for API automation 
 
-https://travis-ci.org/chanilharisankar/rest-assured.svg?branch=master
+{<img src="https://travis-ci.org/chanilharisankar/rest-assured.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/chanilharisankar/rest-assured]
