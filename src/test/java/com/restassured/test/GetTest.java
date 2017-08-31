@@ -24,7 +24,7 @@ import static io.restassured.specification.ProxySpecification.host;
 /**
  * Created by haris on 17/08/17.
  */
-public class GetTest extends RestAssuredConfigirations{
+public class GetTest {
     @Test
     public void getTest() throws Exception{
         given().relaxedHTTPSValidation("TLSv1.2")
