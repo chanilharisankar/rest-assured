@@ -3,7 +3,11 @@
 <suite name="Suite1" verbose="1" >
     <test name="Nopackage" >
         <classes>
-            <class name="org.rest.test.Get" />
+            <class name="com.restassured.test.GetTest" />
         </classes>
     </test>
+    <packages>
+        <package name="com.restassured.test"/>
+        <package name="com.restassured.framework"/>
+    </packages>
 </suite>
